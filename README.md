@@ -9,12 +9,18 @@ Hi, I'm Joshua Lopez, a software developer who's eager to build and learn. Over 
 
 ## Resume
 
-# Techical Skills: JavaScript, ReactJS, Java, Springboot, MySQL, AWS
+# Techical Skills: 
+-  JavaScript
+-  ReactJS
+-  Java
+-  Springboot
+-  MySQL
+-  AWS
 
-# Education/Certification's 
-- LaunchCode | Software Development (_November 2025_)
-- Avila University | B.S., Radiologic Sciences (_May 2012_)
-- AWS Certified Solutions Architect - Associate (_February 2024_)
+# Education/Certification's
+-  LaunchCode | Software Development | (_November 2025_)
+-  Avila University | B.S., Radiologic Sciences | (_May 2012_)
+-  AWS Certified Solutions Architect - Associate | (_February 2024_)
   
 [Download Resume](\assets\imgs\Copy of LaunchCode Resume- 2025.pdf)
 
