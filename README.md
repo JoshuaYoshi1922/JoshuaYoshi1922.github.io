@@ -14,6 +14,8 @@ Interactive Pokemon search laying out basic details about Pokemon in a Pokemon c
 [Pokemon Search](https://zblcustoms.com/)
 
 ## Contact
-Email and Link below
-[Email me](Joshua.Yoshi1922@gmail.com)
-[LinkedIn](www.linkedin.com/in/joshua-l-649530379)
+Email and Link
+
+[Email me](mailto:Joshua.Yoshi1922@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/joshua-l-649530379)
